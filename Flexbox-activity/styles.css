@@ -1,0 +1,105 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    width:894px;
+    height: 788px;
+    margin: auto;
+}
+
+#yellow {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 183px;
+    background-color: #ffffba;
+    margin-bottom: 20px;
+}
+
+#one-four {
+    display: flex;
+    margin-bottom: 40px;
+    margin-right: 35px;
+    margin-left: 35px;
+
+}
+#one-four div{
+    margin: 15px;
+}
+#long-one {
+    width: 50%;
+}
+
+.white-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: white;
+    height: 45px;
+    width: 16.6%;
+}
+
+.white-box h6 {
+    padding-left: 15px;
+}
+
+#main-section {
+    display: flex;
+    width: 894px;
+    height: 591px;
+}
+
+#blue {
+    background-color:#bae1ff;
+    width: 200px;
+    height: 100%;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.colors {
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+#rows {
+    display: flex;
+    flex-direction: column;
+    width: 75%;
+    justify-content: space-between;
+  }
+
+.three-rows {
+    height: 31%;
+}
+
+#orange {
+    background-color: #ffdfba;
+   
+}
+
+#red {
+    background-color: #ffb3ba;
+    display: flex;
+    flex-direction: column;
+}
+
+#letter-boxes {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    margin-left: 15px;
+    margin-right: 15px;
+    
+}
+#letter-boxes div{
+    
+    margin: 15px;
+}
+
+#green {
+    background-color: #baffc9;
+}
+
+/*.color-box {
+    margin: 10px;
+}*/
